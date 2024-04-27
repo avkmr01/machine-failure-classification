@@ -1,0 +1,6 @@
+{
+    "PROCESS": "train",
+    "TRAIN_PATH": "train/train.csv",
+    "TEST_PATH": "test/test.csv",
+    "HOT_ENCODE_CATEGORY_LIMIT": 0.05
+}
